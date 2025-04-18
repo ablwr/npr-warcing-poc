@@ -2,11 +2,5 @@
   "site": {
     "title": "WebRecorder playback demo"
   },
-  "archives": [
-    {
-      "name": "Clinton Trials",
-      "url": "./archives/clinton.wacz",
-      "description": "web archive example"
-    }
-  ]
+  "archivesPath": "archives"
 }
